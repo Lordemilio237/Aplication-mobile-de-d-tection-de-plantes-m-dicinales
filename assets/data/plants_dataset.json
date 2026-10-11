@@ -1,0 +1,869 @@
+{
+  "version": "1.0.0",
+  "source": "PlantaMed Dataset — Plantes Médicinales Africaines & Universelles",
+  "derniere_mise_a_jour": "2025-01",
+  "total": 20,
+  "plantes": [
+    {
+      "id": "moringa_001",
+      "nom_commun": "Moringa",
+      "nom_scientifique": "Moringa oleifera",
+      "famille": "Moringaceae",
+      "description": "Surnommé 'l'arbre de vie', le Moringa est l'une des plantes les plus nutritives connues. Originaire d'Afrique subsaharienne et d'Asie du Sud, il est utilisé depuis des millénaires en médecine traditionnelle.",
+      "origine": "Afrique subsaharienne, Inde",
+      "categorie": "Nutrition & Immunité",
+      "niveau_danger": "modéré",
+      "vertus_therapeutiques": [
+        "Antioxydant puissant",
+        "Anti-inflammatoire",
+        "Hypoglycémiant (réduit la glycémie)",
+        "Riche en vitamines A, C, E",
+        "Source de fer et de calcium",
+        "Boost du système immunitaire",
+        "Améliore la lactation"
+      ],
+      "parties_utilisees": ["Feuilles", "Graines", "Racines", "Écorce", "Fleurs"],
+      "modes_utilisation": [
+        "Poudre de feuilles séchées ajoutée aux repas",
+        "Décoction de feuilles fraîches",
+        "Huile de graines (cosmétique et alimentaire)",
+        "Infusion de fleurs",
+        "Gélules de poudre"
+      ],
+      "maladies_traitees": [
+        "Diabète de type 2",
+        "Malnutrition",
+        "Anémie",
+        "Hypertension",
+        "Infections cutanées",
+        "Arthrite"
+      ],
+      "precautions": [
+        "Éviter les racines en grande quantité (toxicité possible)",
+        "Déconseillé aux femmes enceintes",
+        "Surveiller la glycémie si diabétique sous traitement"
+      ],
+      "posologie": "Adultes : 1 à 2 cuillères à café de poudre par jour. Infusion : 1 poignée de feuilles pour 500 ml d'eau bouillante, 10 min.",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/4/4b/Moringa_oleifera_Blanco1.12.png",
+      "tags": ["afrique", "nutrition", "diabète", "immunité", "arbre"],
+      "popularite": 95
+    },
+    {
+      "id": "neem_002",
+      "nom_commun": "Neem (Margousier)",
+      "nom_scientifique": "Azadirachta indica",
+      "famille": "Meliaceae",
+      "description": "Le Neem est un arbre tropical aux propriétés médicinales remarquables, largement utilisé en Afrique et en Asie. Toutes ses parties sont exploitées : feuilles, écorce, graines et huile.",
+      "origine": "Inde, Afrique tropicale",
+      "categorie": "Antiparasitaire & Infection",
+      "niveau_danger": "attention",
+      "vertus_therapeutiques": [
+        "Antiparasitaire (antipaludéen)",
+        "Antibactérien et antifongique",
+        "Anti-inflammatoire",
+        "Antipyrétique (fait baisser la fièvre)",
+        "Insectifuge naturel",
+        "Améliore la santé bucco-dentaire"
+      ],
+      "parties_utilisees": ["Feuilles", "Écorce", "Graines", "Huile", "Racines"],
+      "modes_utilisation": [
+        "Décoction de feuilles pour bain contre le paludisme",
+        "Mastication de brindilles comme brosse à dents naturelle",
+        "Huile de neem appliquée sur la peau",
+        "Infusion de feuilles par voie orale"
+      ],
+      "maladies_traitees": [
+        "Paludisme",
+        "Fièvre",
+        "Infections cutanées (gale, teigne)",
+        "Problèmes dentaires (caries, gingivites)",
+        "Poux et parasites",
+        "Diabète"
+      ],
+      "precautions": [
+        "Toxique en grande dose par voie orale",
+        "Déconseillé aux femmes enceintes et aux jeunes enfants",
+        "Ne pas utiliser l'huile pure sur le visage sans dilution",
+        "Consulter un médecin avant usage interne prolongé"
+      ],
+      "posologie": "Décoction : 10-15 feuilles pour 1L d'eau, bouillir 15 min. Bain : 1 poignée de feuilles dans le bain quotidien. Usage interne : 3 tasses/jour max, 5 jours consécutifs.",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/3/33/Azadirachta_indica_33472.jpg",
+      "tags": ["afrique", "paludisme", "antibactérien", "arbre", "insecticide"],
+      "popularite": 88
+    },
+    {
+      "id": "vernonia_003",
+      "nom_commun": "Vernonia (Ndolé sauvage)",
+      "nom_scientifique": "Vernonia amygdalina",
+      "famille": "Asteraceae",
+      "description": "Plante emblématique d'Afrique centrale, notamment du Cameroun où elle entre dans le célèbre plat 'Ndolé'. Ses feuilles amères sont utilisées en médecine traditionnelle africaine depuis des siècles.",
+      "origine": "Afrique centrale et occidentale",
+      "categorie": "Antipaludéen & Foie",
+      "niveau_danger": "sûr",
+      "vertus_therapeutiques": [
+        "Antipaludéen",
+        "Hypoglycémiant",
+        "Anthelmentique (antiparasitaire intestinal)",
+        "Hépatoprotecteur (protège le foie)",
+        "Anti-inflammatoire",
+        "Améliore la fertilité féminine"
+      ],
+      "parties_utilisees": ["Feuilles", "Écorce", "Racines"],
+      "modes_utilisation": [
+        "Cuisson des feuilles dans les plats traditionnels",
+        "Jus de feuilles fraîches écrasées",
+        "Décoction de l'écorce",
+        "Macération dans l'eau"
+      ],
+      "maladies_traitees": [
+        "Paludisme",
+        "Diabète",
+        "Parasites intestinaux",
+        "Jaunisse (hépatite)",
+        "Drépanocytose (aide symptomatique)",
+        "Troubles menstruels"
+      ],
+      "precautions": [
+        "Amertume intense : peut provoquer des nausées si consommé cru en excès",
+        "Surveiller la glycémie chez les diabétiques",
+        "Éviter pendant la grossesse"
+      ],
+      "posologie": "Jus : 2 cuillères à soupe de jus frais, 2x/jour avant les repas. Décoction : 1 poignée de feuilles séchées pour 500 ml d'eau, bouillir 10 min, boire 1 verre 2x/jour.",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/6/66/Vernonia_amygdalina_leaves.jpg",
+      "tags": ["cameroun", "afrique-centrale", "paludisme", "foie", "ndolé"],
+      "popularite": 90
+    },
+    {
+      "id": "aloe_vera_004",
+      "nom_commun": "Aloe Vera",
+      "nom_scientifique": "Aloe barbadensis miller",
+      "famille": "Asphodelaceae",
+      "description": "Plante succulente mondialement connue pour son gel transparent aux vertus extraordinaires. Utilisée depuis plus de 6 000 ans en Égypte, en Grèce et en Afrique, surnommée 'la plante de l'immortalité'.",
+      "origine": "Péninsule arabique, Afrique du Nord",
+      "categorie": "Peau & Cicatrisation",
+      "niveau_danger": "sûr",
+      "vertus_therapeutiques": [
+        "Cicatrisant et régénérant cutané",
+        "Hydratant intense de la peau",
+        "Anti-inflammatoire",
+        "Laxatif léger (latex)",
+        "Antioxydant",
+        "Apaisant pour brûlures et coups de soleil",
+        "Améliore la digestion"
+      ],
+      "parties_utilisees": ["Gel des feuilles", "Latex (jus jaune)"],
+      "modes_utilisation": [
+        "Application directe du gel sur la peau",
+        "Jus d'aloe vera à boire (gel uniquement)",
+        "Masque capillaire",
+        "Mélangé à des crèmes ou lotions"
+      ],
+      "maladies_traitees": [
+        "Brûlures légères et coups de soleil",
+        "Psoriasis et eczéma",
+        "Acné",
+        "Constipation (latex, usage court)",
+        "Plaies superficielles",
+        "Irritations gastro-intestinales"
+      ],
+      "precautions": [
+        "Le latex (partie jaune) est laxatif fort : à éviter en usage prolongé",
+        "Déconseillé aux femmes enceintes par voie orale",
+        "Peut provoquer des allergies chez certaines personnes"
+      ],
+      "posologie": "Application cutanée : gel pur, 2-3x/jour. Voie orale : 1 cuillère à soupe de gel pur dilué dans de l'eau, 1x/jour, max 3 semaines consécutives.",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/4/4b/Aloe_vera_flower_inset.png",
+      "tags": ["peau", "brûlures", "gel", "cicatrisation", "universel"],
+      "popularite": 98
+    },
+    {
+      "id": "gingembre_005",
+      "nom_commun": "Gingembre",
+      "nom_scientifique": "Zingiber officinale",
+      "famille": "Zingiberaceae",
+      "description": "Rhizome aromatique originaire d'Asie du Sud-Est, très répandu en Afrique et dans le monde entier. L'une des épices médicinales les plus étudiées scientifiquement, utilisée depuis plus de 5 000 ans.",
+      "origine": "Asie du Sud-Est, largement cultivé en Afrique",
+      "categorie": "Digestif & Douleur",
+      "niveau_danger": "sûr",
+      "vertus_therapeutiques": [
+        "Antiémétique (contre les nausées)",
+        "Anti-inflammatoire puissant",
+        "Digestif et carminatif",
+        "Antioxydant",
+        "Stimule la circulation sanguine",
+        "Analgésique (soulage la douleur)",
+        "Immunostimulant"
+      ],
+      "parties_utilisees": ["Rhizome (racine)", "Poudre séchée"],
+      "modes_utilisation": [
+        "Infusion de gingembre frais râpé",
+        "Ajout aux plats cuisinés",
+        "Jus de gingembre frais",
+        "Gélules de poudre",
+        "Cataplasme sur zones douloureuses"
+      ],
+      "maladies_traitees": [
+        "Nausées et vomissements",
+        "Douleurs articulaires et arthrite",
+        "Troubles digestifs et ballonnements",
+        "Rhumes et grippes",
+        "Migraines",
+        "Douleurs menstruelles"
+      ],
+      "precautions": [
+        "Peut interagir avec les anticoagulants",
+        "Éviter les fortes doses pendant la grossesse (1er trimestre)",
+        "Peut aggraver les brûlures d'estomac",
+        "Dose journalière max : 4g de gingembre frais"
+      ],
+      "posologie": "Infusion : 1-2 cm de gingembre frais tranché dans 250 ml d'eau chaude, 10 min. Boire 2-3 tasses/jour. En poudre : 1g jusqu'à 3x/jour.",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/0/0c/Ginger_roots.jpg",
+      "tags": ["digestion", "nausées", "douleur", "épice", "universel"],
+      "popularite": 96
+    },
+    {
+      "id": "citronnelle_006",
+      "nom_commun": "Citronnelle",
+      "nom_scientifique": "Cymbopogon citratus",
+      "famille": "Poaceae",
+      "description": "Grande herbe tropicale parfumée au citron, très commune en Afrique centrale. Utilisée en cuisine africaine et en médecine traditionnelle pour ses propriétés calmantes et antiparasitaires.",
+      "origine": "Asie du Sud, cultivée en Afrique tropicale",
+      "categorie": "Relaxation & Digestif",
+      "niveau_danger": "sûr",
+      "vertus_therapeutiques": [
+        "Anxiolytique et sédatif léger",
+        "Digestif et carminatif",
+        "Antipyrétique",
+        "Antimicrobien",
+        "Insectifuge naturel",
+        "Antispasmodique"
+      ],
+      "parties_utilisees": ["Feuilles fraîches", "Tiges", "Huile essentielle"],
+      "modes_utilisation": [
+        "Infusion des feuilles fraîches ou séchées",
+        "Aromathérapie avec huile essentielle",
+        "Bain relaxant aux feuilles",
+        "Ajout aux plats et tisanes"
+      ],
+      "maladies_traitees": [
+        "Anxiété et insomnie",
+        "Fièvre",
+        "Maux d'estomac et diarrhée",
+        "Céphalées",
+        "Répulsif contre les moustiques",
+        "Règles douloureuses"
+      ],
+      "precautions": [
+        "Huile essentielle pure irritante : toujours diluer",
+        "Déconseillé aux enfants de moins de 6 ans (huile essentielle)",
+        "Possible allergie cutanée"
+      ],
+      "posologie": "Infusion : 4-5 feuilles fraîches pour 250 ml d'eau bouillante, infuser 5-10 min. 2-3 tasses/jour après les repas.",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/e/e3/Cymbopogon_citratus.jpg",
+      "tags": ["afrique", "relaxation", "insectifuge", "fièvre", "herbe"],
+      "popularite": 82
+    },
+    {
+      "id": "papayer_007",
+      "nom_commun": "Papayer",
+      "nom_scientifique": "Carica papaya",
+      "famille": "Caricaceae",
+      "description": "Arbre fruitier tropical dont toutes les parties ont des vertus médicinales. Les feuilles, le latex, les graines et le fruit sont utilisés en médecine traditionnelle africaine pour de nombreuses affections.",
+      "origine": "Amérique centrale, cultivé en Afrique tropicale",
+      "categorie": "Antipaludéen & Digestion",
+      "niveau_danger": "modéré",
+      "vertus_therapeutiques": [
+        "Antipaludéen (feuilles)",
+        "Digestif (papaïne : enzyme digestive puissante)",
+        "Anthelmentique (graines)",
+        "Anti-inflammatoire",
+        "Cicatrisant (latex)",
+        "Augmente les plaquettes (dengue)"
+      ],
+      "parties_utilisees": ["Feuilles", "Fruit (vert et mûr)", "Graines", "Latex", "Racines"],
+      "modes_utilisation": [
+        "Jus de feuilles fraîches (antipaludéen)",
+        "Consommation du fruit frais (digestion)",
+        "Graines séchées consommées (parasites)",
+        "Latex appliqué sur plaies",
+        "Décoction de feuilles"
+      ],
+      "maladies_traitees": [
+        "Paludisme",
+        "Dengue (augmentation des plaquettes)",
+        "Parasites intestinaux",
+        "Indigestion et constipation",
+        "Plaies et ulcères",
+        "Douleurs menstruelles"
+      ],
+      "precautions": [
+        "Fortement déconseillé aux femmes enceintes (propriétés abortives)",
+        "Le latex peut être allergisant",
+        "Les graines en grande quantité sont toxiques",
+        "Jus de feuilles très amer"
+      ],
+      "posologie": "Jus antipaludéen : 2 cuillères à soupe de jus de feuilles, 3x/jour pendant 3-5 jours. Fruit digestif : consommer le fruit mûr quotidiennement.",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/8/8a/Carica_papaya.jpg",
+      "tags": ["afrique", "paludisme", "dengue", "digestion", "fruit"],
+      "popularite": 91
+    },
+    {
+      "id": "menthe_008",
+      "nom_commun": "Menthe poivrée",
+      "nom_scientifique": "Mentha × piperita",
+      "famille": "Lamiaceae",
+      "description": "Plante aromatique hybride connue dans le monde entier pour son arôme frais et mentholé. Utilisée depuis l'Antiquité grecque et romaine pour ses propriétés digestives et analgésiques.",
+      "origine": "Europe (hybride naturel)",
+      "categorie": "Digestif & Maux de tête",
+      "niveau_danger": "sûr",
+      "vertus_therapeutiques": [
+        "Soulage les maux de tête (application externe)",
+        "Digestif et antispasmodique",
+        "Décongestionnant respiratoire",
+        "Analgésique local",
+        "Antibactérien et antifongique",
+        "Rafraîchissant et tonifiant"
+      ],
+      "parties_utilisees": ["Feuilles fraîches", "Feuilles séchées", "Huile essentielle"],
+      "modes_utilisation": [
+        "Infusion des feuilles fraîches ou séchées",
+        "Application d'huile essentielle diluée sur les tempes",
+        "Inhalation de vapeur pour congestion",
+        "Gargarismes pour maux de gorge"
+      ],
+      "maladies_traitees": [
+        "Maux de tête et migraines",
+        "Syndrome du côlon irritable",
+        "Nausées et indigestion",
+        "Rhume et congestion nasale",
+        "Douleurs musculaires",
+        "Mauvaise haleine"
+      ],
+      "precautions": [
+        "Huile essentielle : jamais pure sur la peau, toujours diluée",
+        "Déconseillé aux enfants de moins de 3 ans (menthol)",
+        "Peut aggraver le reflux gastrique"
+      ],
+      "posologie": "Infusion : 1-2 cuillères à café de feuilles séchées pour 200 ml d'eau bouillante, 5-10 min. Boire 3 tasses/jour.",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/b/bb/Mint_0072.jpg",
+      "tags": ["digestion", "migraine", "menthol", "aromatique", "universel"],
+      "popularite": 94
+    },
+    {
+      "id": "camomille_009",
+      "nom_commun": "Camomille",
+      "nom_scientifique": "Matricaria chamomilla",
+      "famille": "Asteraceae",
+      "description": "Plante à fleurs blanches et jaunes connue depuis l'Antiquité pour ses propriétés apaisantes. L'une des plantes médicinales les plus anciennes, utilisée dans de nombreuses cultures pour favoriser le sommeil.",
+      "origine": "Europe, Asie occidentale",
+      "categorie": "Relaxation & Sommeil",
+      "niveau_danger": "sûr",
+      "vertus_therapeutiques": [
+        "Anxiolytique et sédatif doux",
+        "Anti-inflammatoire",
+        "Antispasmodique digestif",
+        "Cicatrisant cutané",
+        "Analgésique léger",
+        "Immunomodulateur"
+      ],
+      "parties_utilisees": ["Fleurs séchées", "Huile essentielle"],
+      "modes_utilisation": [
+        "Infusion de fleurs séchées",
+        "Compresses sur zones inflammées",
+        "Bain aux fleurs de camomille",
+        "Aromathérapie avec huile essentielle"
+      ],
+      "maladies_traitees": [
+        "Insomnie et anxiété",
+        "Troubles digestifs (crampes, ballonnements)",
+        "Coliques du nourrisson",
+        "Eczéma et irritations cutanées",
+        "Conjonctivite (compresse)",
+        "Menstruations douloureuses"
+      ],
+      "precautions": [
+        "Allergie possible si allergie aux Astéracées",
+        "Peut potentialiser les somnifères et anxiolytiques",
+        "Éviter les grandes quantités pendant la grossesse"
+      ],
+      "posologie": "Infusion : 1-2 cuillères à café de fleurs séchées pour 200 ml d'eau chaude (90°C), infuser 5-10 min. 1-3 tasses/jour. Sommeil : 1 tasse 30 min avant le coucher.",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/1/10/Camomile%40original_size.jpg",
+      "tags": ["sommeil", "anxiété", "relaxation", "fleurs", "universel"],
+      "popularite": 89
+    },
+    {
+      "id": "curcuma_010",
+      "nom_commun": "Curcuma",
+      "nom_scientifique": "Curcuma longa",
+      "famille": "Zingiberaceae",
+      "description": "Rhizome de couleur orange vif, base du curry indien. La curcumine, son principe actif, possède des propriétés anti-inflammatoires comparables à certains médicaments anti-douleurs selon les études scientifiques.",
+      "origine": "Asie du Sud (Inde), cultivé en Afrique",
+      "categorie": "Anti-inflammatoire & Foie",
+      "niveau_danger": "sûr",
+      "vertus_therapeutiques": [
+        "Anti-inflammatoire puissant (curcumine)",
+        "Antioxydant majeur",
+        "Hépatoprotecteur (protège le foie)",
+        "Anticancéreux (études en cours)",
+        "Neuroprotecteur",
+        "Antibactérien et antifongique",
+        "Aide contre la dépression légère"
+      ],
+      "parties_utilisees": ["Rhizome frais", "Poudre séchée"],
+      "modes_utilisation": [
+        "Ajout à la cuisine (plats, soupes, smoothies)",
+        "Lait doré (golden milk) : curcuma + lait + poivre noir",
+        "Gélules de curcumine standardisée",
+        "Cataplasme anti-inflammatoire"
+      ],
+      "maladies_traitees": [
+        "Arthrite et douleurs articulaires",
+        "Troubles digestifs et ulcères",
+        "Maladies inflammatoires",
+        "Problèmes hépatiques",
+        "Dépression légère",
+        "Maladies cardiovasculaires (prévention)"
+      ],
+      "precautions": [
+        "Peut interagir avec les anticoagulants",
+        "Déconseillé en cas de calculs biliaires",
+        "Fortes doses peuvent irriter l'estomac",
+        "Assimilation améliorée avec poivre noir (pipérine)"
+      ],
+      "posologie": "Poudre alimentaire : 1-3 g/jour. Golden milk : 1 cuillère à café dans lait chaud + pincée de poivre noir, 1 fois/jour le soir.",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/3/3c/Curcuma_longa_roots.jpg",
+      "tags": ["anti-inflammatoire", "foie", "épice", "articulations", "universel"],
+      "popularite": 93
+    },
+    {
+      "id": "ail_011",
+      "nom_commun": "Ail",
+      "nom_scientifique": "Allium sativum",
+      "famille": "Amaryllidaceae",
+      "description": "Utilisé comme aliment et médicament depuis plus de 5 000 ans. L'allicine, son composé actif principal, lui confère des propriétés antimicrobiennes exceptionnelles. Hippocrate lui-même le prescrivait.",
+      "origine": "Asie centrale",
+      "categorie": "Cardiovasculaire & Infection",
+      "niveau_danger": "sûr",
+      "vertus_therapeutiques": [
+        "Antibactérien et antiviral puissant",
+        "Hypotenseur (réduit la tension artérielle)",
+        "Hypocholestérolémiant",
+        "Anticoagulant naturel",
+        "Immunostimulant",
+        "Antifongique",
+        "Antioxydant"
+      ],
+      "parties_utilisees": ["Bulbe (gousses)"],
+      "modes_utilisation": [
+        "Consommation crue (le plus efficace)",
+        "Décoction d'ail",
+        "Macération dans l'huile d'olive",
+        "Jus d'ail dilué",
+        "Gélules d'extrait d'ail"
+      ],
+      "maladies_traitees": [
+        "Hypertension artérielle",
+        "Cholestérol élevé",
+        "Infections respiratoires",
+        "Candidoses (antifongique)",
+        "Maladies cardiovasculaires (prévention)",
+        "Parasites intestinaux"
+      ],
+      "precautions": [
+        "Peut interagir avec les anticoagulants (warfarine)",
+        "Irritant gastrique : consommer avec les repas",
+        "Déconseillé avant une intervention chirurgicale"
+      ],
+      "posologie": "Cru : 1-2 gousses/jour (écraser 5-10 min avant consommation pour activer l'allicine). Infusion : 3-4 gousses dans 500 ml d'eau, bouillir 5 min, 1-2 verres/jour.",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/1/1e/Garlic-Ajo.jpg",
+      "tags": ["cardiovasculaire", "antibactérien", "immunité", "légume", "universel"],
+      "popularite": 97
+    },
+    {
+      "id": "artemisia_012",
+      "nom_commun": "Artemisia (Armoise africaine)",
+      "nom_scientifique": "Artemisia annua",
+      "famille": "Asteraceae",
+      "description": "Plante herbacée très connue pour l'artémisinine, principe actif à la base des médicaments antipaludéens modernes. Largement cultivée et utilisée en Afrique subsaharienne dans le traitement du paludisme.",
+      "origine": "Chine, largement cultivée en Afrique",
+      "categorie": "Antipaludéen & Infection",
+      "niveau_danger": "modéré",
+      "vertus_therapeutiques": [
+        "Antipaludéen puissant (artémisinine)",
+        "Antibactérien",
+        "Antifongique",
+        "Anti-inflammatoire",
+        "Antiparasitaire (leishmaniose)",
+        "Antitumoral (recherches en cours)"
+      ],
+      "parties_utilisees": ["Feuilles et tiges séchées", "Infusion", "Extrait"],
+      "modes_utilisation": [
+        "Tisane de feuilles séchées",
+        "Infusion à froid",
+        "Comprimés d'artémisinine (médicament)",
+        "Inhalation de vapeur des feuilles"
+      ],
+      "maladies_traitees": [
+        "Paludisme (Plasmodium falciparum)",
+        "Fièvre",
+        "Infections bactériennes",
+        "Leishmaniose",
+        "Certains cancers (études)"
+      ],
+      "precautions": [
+        "Ne pas remplacer le traitement médical antipaludéen par la tisane seule",
+        "Déconseillé aux femmes enceintes",
+        "Peut provoquer des réactions allergiques",
+        "Éviter chez les enfants de moins de 2 ans"
+      ],
+      "posologie": "Tisane : 5g de feuilles séchées pour 1L d'eau, infuser 15 min à froid. 3 tasses/jour pendant 7 jours maximum.",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/d/de/Illustration_Artemisia_annua0.jpg",
+      "tags": ["paludisme", "afrique", "artémisinine", "antiparasitaire"],
+      "popularite": 87
+    },
+    {
+      "id": "basilic_013",
+      "nom_commun": "Basilic sacré (Tulsi)",
+      "nom_scientifique": "Ocimum tenuiflorum",
+      "famille": "Lamiaceae",
+      "description": "Plante sacrée en Inde et très répandue en Afrique tropicale. Le basilic sacré est connu pour ses puissantes propriétés adaptogènes qui aident le corps à résister au stress physique et émotionnel.",
+      "origine": "Inde, Afrique tropicale",
+      "categorie": "Stress & Immunité",
+      "niveau_danger": "sûr",
+      "vertus_therapeutiques": [
+        "Adaptogène (aide à gérer le stress)",
+        "Immunostimulant",
+        "Antibactérien",
+        "Antioxydant",
+        "Hypoglycémiant",
+        "Anti-inflammatoire",
+        "Anxiolytique naturel"
+      ],
+      "parties_utilisees": ["Feuilles fraîches", "Feuilles séchées", "Graines", "Huile essentielle"],
+      "modes_utilisation": [
+        "Tisane de feuilles fraîches ou séchées",
+        "Mâchage de feuilles fraîches",
+        "Ajout aux plats",
+        "Jus de feuilles fraîches"
+      ],
+      "maladies_traitees": [
+        "Stress et anxiété chronique",
+        "Diabète de type 2",
+        "Infections respiratoires",
+        "Maux de tête",
+        "Problèmes cutanés",
+        "Fièvre"
+      ],
+      "precautions": [
+        "Peut ralentir la coagulation du sang",
+        "Déconseillé avant une intervention chirurgicale",
+        "Prudence chez les personnes sous anticoagulants"
+      ],
+      "posologie": "Tisane : 5-6 feuilles fraîches dans 200 ml d'eau bouillante, 5 min. 2-3 tasses/jour. Feuilles fraîches : 2-3 feuilles à mâcher quotidiennement.",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/b/b9/Ocimum_tenuiflorum3.jpg",
+      "tags": ["stress", "adaptogène", "immunité", "ayurveda", "herbe"],
+      "popularite": 78
+    },
+    {
+      "id": "eucalyptus_014",
+      "nom_commun": "Eucalyptus",
+      "nom_scientifique": "Eucalyptus globulus",
+      "famille": "Myrtaceae",
+      "description": "Grand arbre originaire d'Australie, très planté en Afrique pour ses usages médicinaux. Ses feuilles riches en cinéol (eucalyptol) font de lui un remède incontournable contre les maladies respiratoires.",
+      "origine": "Australie, largement planté en Afrique",
+      "categorie": "Respiratoire & Infection",
+      "niveau_danger": "modéré",
+      "vertus_therapeutiques": [
+        "Expectorant puissant",
+        "Décongestionnant respiratoire",
+        "Antibactérien et antiviral",
+        "Antipyrétique",
+        "Antifongique",
+        "Antispasmodique bronchique"
+      ],
+      "parties_utilisees": ["Feuilles", "Huile essentielle"],
+      "modes_utilisation": [
+        "Inhalation de vapeur de feuilles bouillies",
+        "Décoction de feuilles pour gorge et voies respiratoires",
+        "Huile essentielle diluée en massage thoracique",
+        "Diffusion d'huile essentielle"
+      ],
+      "maladies_traitees": [
+        "Rhume et grippe",
+        "Bronchite et toux",
+        "Sinusite",
+        "Asthme léger",
+        "Fièvre",
+        "Infections cutanées"
+      ],
+      "precautions": [
+        "Huile essentielle toxique si ingérée pure",
+        "Déconseillé aux enfants de moins de 6 ans (voies respiratoires)",
+        "Éviter sur le visage des nourrissons",
+        "Contre-indiqué en cas d'épilepsie"
+      ],
+      "posologie": "Inhalation : 5-6 feuilles dans 1L d'eau bouillante, inhaler la vapeur 10-15 min. HE : 2-3 gouttes diluées dans huile végétale pour massage.",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/e/e1/Eucalyptus_globulus_-_K%C3%B6hler%E2%80%93s_Medizinal-Pflanzen-057.jpg",
+      "tags": ["respiratoire", "toux", "rhume", "arbre", "eucalyptol"],
+      "popularite": 86
+    },
+    {
+      "id": "hibiscus_015",
+      "nom_commun": "Hibiscus (Bissap)",
+      "nom_scientifique": "Hibiscus sabdariffa",
+      "famille": "Malvaceae",
+      "description": "Plante emblématique d'Afrique de l'Ouest, très populaire pour la boisson 'bissap' ou 'jus de bissap'. Ses fleurs rouge rubis sont riches en anthocyanes et possèdent de puissantes propriétés antihypertensives.",
+      "origine": "Afrique de l'Ouest et centrale",
+      "categorie": "Cardiovasculaire & Antioxydant",
+      "niveau_danger": "sûr",
+      "vertus_therapeutiques": [
+        "Antihypertenseur naturel",
+        "Riche en vitamine C",
+        "Antioxydant puissant (anthocyanes)",
+        "Diurétique léger",
+        "Hypocholestérolémiant",
+        "Hépatoprotecteur",
+        "Anti-inflammatoire"
+      ],
+      "parties_utilisees": ["Calices (fleurs séchées)", "Feuilles", "Graines"],
+      "modes_utilisation": [
+        "Infusion de calices séchés (bissap, karkadé)",
+        "Jus froid de bissap",
+        "Sirop de fleurs d'hibiscus",
+        "Poudre de calices séchés"
+      ],
+      "maladies_traitees": [
+        "Hypertension artérielle",
+        "Cholestérol élevé",
+        "Maladies hépatiques",
+        "Infections urinaires",
+        "Constipation légère",
+        "Surpoids (diurétique)"
+      ],
+      "precautions": [
+        "Peut potentialiser les médicaments antihypertenseurs",
+        "Déconseillé aux femmes enceintes (peut stimuler les contractions)",
+        "Peut interagir avec certains médicaments contre le VIH"
+      ],
+      "posologie": "Infusion : 1-2 cuillères à soupe de calices séchés dans 500 ml d'eau bouillante, 10-15 min. 2-3 tasses/jour. Consommer chaud ou froid.",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/5/54/Hibiscus_sabdariffa.jpg",
+      "tags": ["afrique-ouest", "hypertension", "bissap", "karkadé", "fleurs"],
+      "popularite": 92
+    },
+    {
+      "id": "kalanchoe_016",
+      "nom_commun": "Kalanchoé (Plante resurrection)",
+      "nom_scientifique": "Kalanchoe pinnata",
+      "famille": "Crassulaceae",
+      "description": "Plante succulente très utilisée en médecine traditionnelle africaine et antillaise. Connue sous le nom de 'feuille miraculeuse', elle est réputée pour ses propriétés cicatrisantes et anti-infectieuses remarquables.",
+      "origine": "Madagascar, Afrique tropicale",
+      "categorie": "Peau & Cicatrisation",
+      "niveau_danger": "sûr",
+      "vertus_therapeutiques": [
+        "Cicatrisant puissant",
+        "Anti-infectieux local",
+        "Anti-inflammatoire",
+        "Antifongique",
+        "Antitumoral (études préliminaires)",
+        "Immunostimulant"
+      ],
+      "parties_utilisees": ["Feuilles fraîches", "Jus des feuilles"],
+      "modes_utilisation": [
+        "Application directe de feuilles écrasées sur plaies",
+        "Jus de feuilles appliqué sur la peau",
+        "Décoction pour bain de siège",
+        "Cataplasme de feuilles chauffées"
+      ],
+      "maladies_traitees": [
+        "Plaies et coupures",
+        "Brûlures",
+        "Infections cutanées",
+        "Furoncles et abcès",
+        "Hémorroïdes (bain de siège)",
+        "Otites (jus)"
+      ],
+      "precautions": [
+        "Usage essentiellement externe recommandé",
+        "Peut être toxique en grande quantité par voie interne",
+        "Déconseillé aux personnes cardiaques (bufadiénolides)"
+      ],
+      "posologie": "Usage externe : appliquer directement la pulpe d'une feuille fraîche sur la zone concernée, 2-3x/jour. Décoction bain : 5-6 feuilles pour 2L d'eau.",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/4/49/Kalanchoe_pinnata_-_Succulent_plant.jpg",
+      "tags": ["madagascar", "afrique", "cicatrisation", "peau", "succulent"],
+      "popularite": 75
+    },
+    {
+      "id": "thym_017",
+      "nom_commun": "Thym",
+      "nom_scientifique": "Thymus vulgaris",
+      "famille": "Lamiaceae",
+      "description": "Plante aromatique méditerranéenne très utilisée en cuisine et en médecine depuis l'Antiquité. Son huile essentielle riche en thymol en fait l'un des antiseptiques naturels les plus puissants connus.",
+      "origine": "Bassin méditerranéen",
+      "categorie": "Respiratoire & Infection",
+      "niveau_danger": "sûr",
+      "vertus_therapeutiques": [
+        "Antiseptique puissant (thymol)",
+        "Expectorant et fluidifiant bronchique",
+        "Antibactérien à large spectre",
+        "Antifongique",
+        "Antispasmodique",
+        "Stimulant immunitaire",
+        "Antioxydant"
+      ],
+      "parties_utilisees": ["Feuilles et tiges fleuries", "Huile essentielle"],
+      "modes_utilisation": [
+        "Infusion de thym frais ou séché",
+        "Sirop de thym pour la toux",
+        "Gargarisme de décoction pour maux de gorge",
+        "Inhalation vapeur",
+        "Huile essentielle diluée en massage"
+      ],
+      "maladies_traitees": [
+        "Bronchite et toux grasse",
+        "Maux de gorge et angine",
+        "Rhume et grippe",
+        "Infections urinaires légères",
+        "Candidoses",
+        "Problèmes digestifs"
+      ],
+      "precautions": [
+        "HE de thym à thymol très irritante : toujours diluer abondamment",
+        "Déconseillé aux femmes enceintes en grande quantité",
+        "Éviter en cas d'hyperthyroïdie"
+      ],
+      "posologie": "Infusion : 1 cuillère à café de thym séché pour 200 ml d'eau bouillante, 10 min. 3 tasses/jour. Sirop : décoction concentrée + miel, 1 cuillère à soupe 4x/jour.",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/4/4b/Thymus_vulgaris_-_K%C3%B6hler%E2%80%93s_Medizinal-Pflanzen-274.jpg",
+      "tags": ["respiratoire", "antiseptique", "toux", "thymol", "méditerranéen"],
+      "popularite": 85
+    },
+    {
+      "id": "rooibos_018",
+      "nom_commun": "Rooibos",
+      "nom_scientifique": "Aspalathus linearis",
+      "famille": "Fabaceae",
+      "description": "Arbuste originaire d'Afrique du Sud, dont les feuilles produisent une tisane rouge très populaire. Naturellement sans caféine et riche en antioxydants, le rooibos est reconnu pour ses bienfaits sur la santé globale.",
+      "origine": "Afrique du Sud (Cederberg)",
+      "categorie": "Antioxydant & Bien-être",
+      "niveau_danger": "sûr",
+      "vertus_therapeutiques": [
+        "Antioxydant puissant (aspalathine)",
+        "Sans caféine : idéal pour tous",
+        "Améliore la santé cardiovasculaire",
+        "Anti-inflammatoire",
+        "Aide contre les allergies",
+        "Améliore la santé osseuse",
+        "Aide au contrôle de la glycémie"
+      ],
+      "parties_utilisees": ["Feuilles et tiges séchées"],
+      "modes_utilisation": [
+        "Infusion chaude",
+        "Thé glacé (rooibos froid)",
+        "Ajout dans des laits et smoothies",
+        "Masque facial (infusion refroidie)"
+      ],
+      "maladies_traitees": [
+        "Coliques du nourrisson",
+        "Allergies",
+        "Maladies cardiovasculaires (prévention)",
+        "Diabète de type 2",
+        "Insomnie (sans caféine)",
+        "Stress oxydatif"
+      ],
+      "precautions": [
+        "Peut interférer avec certains traitements hormonaux (estrogènes)",
+        "En grande quantité, peut affecter l'absorption du fer",
+        "Très bien toléré en général"
+      ],
+      "posologie": "Infusion : 1 cuillère à café comble pour 200 ml d'eau bouillante, infuser 5-7 min. Consommation libre, jusqu'à 5-6 tasses/jour sans effets négatifs.",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/8/8e/Rooibos_loose.jpg",
+      "tags": ["afrique-sud", "antioxydant", "sans-caféine", "bien-être", "tisane"],
+      "popularite": 80
+    },
+    {
+      "id": "spiruline_019",
+      "nom_commun": "Spiruline",
+      "nom_scientifique": "Arthrospira platensis",
+      "famille": "Cyanobactérie (microalgue)",
+      "description": "Microalgue bleu-vert consommée depuis des siècles par les populations du lac Tchad (dihe). Considérée comme le superaliment le plus complet du monde, elle est extrêmement riche en protéines, vitamines et minéraux.",
+      "origine": "Lacs alcalins d'Afrique (lac Tchad), Mexique",
+      "categorie": "Nutrition & Superaliment",
+      "niveau_danger": "sûr",
+      "vertus_therapeutiques": [
+        "Source protéique exceptionnelle (60-70% de protéines)",
+        "Riche en fer biodisponible",
+        "Antioxydant (phycocyanine)",
+        "Immunostimulant",
+        "Lutte contre la malnutrition",
+        "Améliore la performance sportive",
+        "Détoxifiant (métaux lourds)"
+      ],
+      "parties_utilisees": ["Biomasse entière séchée (poudre, comprimés)"],
+      "modes_utilisation": [
+        "Poudre mélangée dans eau, jus ou smoothie",
+        "Comprimés à avaler",
+        "Intégrée dans des aliments (pain, pâtes)",
+        "Mélangée à la bouillie pour nourrissons"
+      ],
+      "maladies_traitees": [
+        "Malnutrition et sous-nutrition",
+        "Anémie ferriprive",
+        "Déficit immunitaire",
+        "Récupération post-maladie",
+        "Cholestérol élevé",
+        "Diabète de type 2"
+      ],
+      "precautions": [
+        "Éviter en cas de phénylcétonurie",
+        "Déconseillé en cas de maladie auto-immune (stimule l'immunité)",
+        "Vérifier la qualité et l'absence de contaminants (cyanotoxines)",
+        "Commencer par de petites doses pour habituer l'organisme"
+      ],
+      "posologie": "Adultes : 1-3g/jour en commençant, puis jusqu'à 10g/jour. Enfants malnutris : 1-5g/jour selon l'âge. Ajouter progressivement à l'alimentation.",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/3/3c/Spirulina_Tablets.jpg",
+      "tags": ["tchad", "afrique", "superaliment", "malnutrition", "protéines", "algue"],
+      "popularite": 83
+    },
+    {
+      "id": "kinkeliba_020",
+      "nom_commun": "Kinkeliba",
+      "nom_scientifique": "Combretum micranthum",
+      "famille": "Combretaceae",
+      "description": "Arbuste emblématique d'Afrique de l'Ouest, principalement du Sénégal et du Mali. La tisane de kinkeliba est une boisson traditionnelle très populaire, réputée pour ses vertus dépuratives, digestives et hépatoprotectrices.",
+      "origine": "Afrique de l'Ouest (Sénégal, Mali, Guinée)",
+      "categorie": "Foie & Digestion",
+      "niveau_danger": "sûr",
+      "vertus_therapeutiques": [
+        "Hépatoprotecteur (protège et régénère le foie)",
+        "Cholérétique (stimule la sécrétion biliaire)",
+        "Dépuratif (élimine les toxines)",
+        "Antidiabétique",
+        "Antipaludéen",
+        "Antibactérien",
+        "Digestif"
+      ],
+      "parties_utilisees": ["Feuilles séchées", "Tiges"],
+      "modes_utilisation": [
+        "Infusion de feuilles séchées (tisane traditionnelle)",
+        "Décoction concentrée",
+        "Sachets infuseurs commerciaux"
+      ],
+      "maladies_traitees": [
+        "Maladies hépatiques (jaunisse, hépatite)",
+        "Diabète de type 2",
+        "Paludisme",
+        "Constipation chronique",
+        "Calculs biliaires (prévention)",
+        "Troubles digestifs"
+      ],
+      "precautions": [
+        "Déconseillé en cas d'obstruction des voies biliaires",
+        "Surveiller la glycémie chez les diabétiques",
+        "Éviter pendant la grossesse et l'allaitement"
+      ],
+      "posologie": "Tisane : 1 cuillère à soupe de feuilles séchées pour 500 ml d'eau bouillante, infuser 15 min. 2-3 tasses/jour, de préférence le matin à jeun.",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/a/a6/Combretum_micranthum.jpg",
+      "tags": ["sénégal", "mali", "afrique-ouest", "foie", "dépuratif", "tisane"],
+      "popularite": 88
+    }
+  ]
+}

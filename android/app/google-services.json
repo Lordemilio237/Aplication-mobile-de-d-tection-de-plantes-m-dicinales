@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "931524118224",
+    "project_id": "plantamed-5433f",
+    "storage_bucket": "plantamed-5433f.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:931524118224:android:b1b871615d00ce2343c0d5",
+        "android_client_info": {
+          "package_name": "com.example.applicationdedetectiondesplantesmedicinales"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAaN1rdBc9XCww0R1zbAVpwv9XJHAdoDCM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
